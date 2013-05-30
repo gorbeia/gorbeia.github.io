@@ -6,7 +6,10 @@ tagline: Small pastimes
 {% include JB/setup %}
 
 Page for my small projects.
-    
+
+<ul>
+<li><a href="/EnpleguDatuakJS/">Data for employment by council</a></li>
+</ul>
 ## Sample Posts
 
 <ul class="posts">
